@@ -20,7 +20,7 @@ const About = () => {
                         <a href="/tech/ResumeVin.pdf" target="_blank" className="showcaseBtn">View my Resume</a>
                     </div>
                 </div>
-                <img src="/images/img1.jpg" alt="profile img" className="w-96 h-96 rounded-full md:ml-24 mx-auto" />
+                <img src="/images/img2.jpg" alt="profile img" className="w-96 h-96 rounded-full md:ml-24 mx-auto" />
             </div>
         </section>
     )
